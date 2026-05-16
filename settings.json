@@ -8,7 +8,7 @@
   "server": {
     "ip": "5aschoolsmp.aternos.me",
     "port": 30685,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
